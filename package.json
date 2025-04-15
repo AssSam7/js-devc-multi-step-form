@@ -1,0 +1,25 @@
+{
+  "name": "js-multi-step-form",
+  "version": "1.0.0",
+  "description": "This project is a solution to the DevChallenges Multi Step Form challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssSam7/js-devc-multi-step-form.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "tailwind"
+  ],
+  "author": "Aslam Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssSam7/js-devc-multi-step-form/issues"
+  },
+  "homepage": "https://github.com/AssSam7/js-devc-multi-step-form#readme"
+}
